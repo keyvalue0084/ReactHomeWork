@@ -1,0 +1,38 @@
+.todo-item{
+    margin-top: 5px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+}
+
+.todo-item-check{
+    width:20px; 
+    height:20px; 
+    vertical-align: middle;
+
+}
+.todo-item-check:hover{
+    width:22px; 
+    height:22px; 
+    vertical-align: middle;
+}
+
+.todo-item-text{
+    vertical-align: middle;
+    width: 270px;    
+    max-height:100px;
+    border: none;    
+    text-overflow: ellipsis;
+}
+
+.todo-item-button{
+    vertical-align: middle;
+    height:33px;
+    width:33px;
+}
+
+.todo-item-button:hover{
+    vertical-align: middle;
+    height:35px;
+    width:35px;
+}

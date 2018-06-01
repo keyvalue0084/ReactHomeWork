@@ -1,0 +1,6 @@
+.uncompleted-items{
+    border: 1px solid black;
+    height:100%;
+    width:354px;
+    position: relative;
+}
